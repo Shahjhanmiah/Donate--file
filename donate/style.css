@@ -1,0 +1,40 @@
+body{
+    
+    font-family: 'Oswald', sans-serif;
+    
+}
+h1{
+text-align: center;
+margin-bottom: 150px;
+    
+    
+}
+.background-image{
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    background-size:cover;
+    width: 800px;
+    height: 700px;
+    
+    
+}
+.donate{
+    text-align: center;
+    padding: 20px;
+    color: white;
+    width: 100%;
+    
+    
+
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-color:tomato;
+    padding: 10px 20px;
+    color:white;
+    margin-right: 10px; 
+    
+}
